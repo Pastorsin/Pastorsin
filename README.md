@@ -15,6 +15,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pastorsin&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="pastorsin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pastorsin&show_icons=true&theme=gruvbox&locale=en" alt="pastorsin" /></p>
+<p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pastorsin&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="pastorsin" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=pastorsin&show_icons=true&theme=gruvbox&locale=en" alt="pastorsin" />
+</p>
