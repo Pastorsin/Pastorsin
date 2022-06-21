@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 
-I finished my studies in Computer Science at the National University of La Plata, where I work as an assistant professor and researcher.
-
 I currently work as a Full-stack developer at Flux IT, and in a self-taught way I develop applications on various platforms and using different technologies with the aim of being up-to-date in this great world of Computing.
+
+I finished my studies in Computer Science at the National University of La Plata, where I work as an assistant professor and researcher.
 
 Always open to new challenges that constantly increase my learning!
 
