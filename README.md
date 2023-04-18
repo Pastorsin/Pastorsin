@@ -14,7 +14,7 @@ Always open to new challenges that constantly increase my learning!
 
 <h3 align="left">Stats:</h3>
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pastorsin&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="pastorsin" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pastorsin&show_icons=true&theme=gruvbox&locale=en&count_private=true" alt="pastorsin" />
-</p>
+<div align="left">
+  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=pastorsin&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="pastorsin" />
+  <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=pastorsin&show_icons=true&theme=gruvbox&locale=en" alt="pastorsin" />
+</div>
